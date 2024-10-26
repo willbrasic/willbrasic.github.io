@@ -6,8 +6,11 @@
 &lt;/div>
 &lt;p>Slides can be added in a few ways:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Hugo Blox Builder&amp;rsquo;s &lt;a href="https://docs.hugoblox.com/reference/content-types/">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Hugo Blox Builder&amp;rsquo;s
+feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/reference/markdown/">shortcodes&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
+.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item></channel></rss>
+&lt;p>Further event details, including
+such as image galleries, can be added to the body of this page.&lt;/p></description></item></channel></rss>
